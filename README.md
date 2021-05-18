@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Martinovics
+- 👋 Hi, I’m Martin.
 - 👀 I’m interested in sports and computers...
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on some tf2-python stuff.
